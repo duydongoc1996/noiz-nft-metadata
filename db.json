@@ -12,11 +12,11 @@
         },
         {
           "trait_type": "unlockableHash", 
-          "value": ""
+          "value": "this is unlockable hash"
         },
         {
           "trait_type": "urls", 
-          "value": ""
+          "value": "this is urls"
         },
         {
           "trait_type": "author", 
@@ -29,7 +29,7 @@
         {
           "display_type": "date",
           "trait_type": "created_date", 
-          "value": "Starfish"
+          "value": 1630011934591
         },
         {
           "trait_type": "standard", 
