@@ -29,11 +29,15 @@
         {
           "display_type": "date",
           "trait_type": "created_date", 
-          "value": 1630011934591
+          "value": 1629950673881
         },
         {
           "trait_type": "standard", 
           "value": "BEAMV1Standard"
+        },
+        {
+          "trait_type": "asset", 
+          "value": "16088498169526038966"
         }
       ]
     }
