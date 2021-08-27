@@ -27,7 +27,7 @@
           "value": "My cat"
         },
         {
-          "display_type": "date"
+          "display_type": "date",
           "trait_type": "created_date", 
           "value": "Starfish"
         },
