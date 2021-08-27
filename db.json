@@ -1,0 +1,41 @@
+{
+  "nft": [
+    {
+      "id": 1,
+      "name": "My cat",
+      "description": "My cat",
+      "image": "https://nft-marketplace-s3-test.s3.ap-southeast-1.amazonaws.com/fdab2aecb965d9ec47b43ac3a3da57808530ee7389513dbc04bb64837011fc99b",
+      "attributes": [
+        {
+          "trait_type": "hash", 
+          "value": "334555dee9094c9ae50ff681a8e3da2ef142f8bb95f484fae7ad6bea52a74b35"
+        },
+        {
+          "trait_type": "unlockableHash", 
+          "value": ""
+        },
+        {
+          "trait_type": "urls", 
+          "value": ""
+        },
+        {
+          "trait_type": "author", 
+          "value": "Nobita"
+        },
+        {
+          "trait_type": "title", 
+          "value": "My cat"
+        },
+        {
+          "display_type": "date"
+          "trait_type": "created_date", 
+          "value": "Starfish"
+        },
+        {
+          "trait_type": "standard", 
+          "value": "BEAMV1Standard"
+        }
+      ]
+    }
+  ]
+}
