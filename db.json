@@ -40,6 +40,88 @@
           "value": "16088498169526038966"
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "My cat",
+      "description": "My cat",
+      "image": "https://nft-marketplace-s3-test.s3.ap-southeast-1.amazonaws.com/fdab2aecb965d9ec47b43ac3a3da57808530ee7389513dbc04bb64837011fc99b",
+      "attributes": [
+        {
+          "trait_type": "hash", 
+          "value": "334555dee9094c9ae50ff681a8e3da2ef142f8bb95f484fae7ad6bea52a74b35"
+        },
+        {
+          "trait_type": "unlockableHash", 
+          "value": "this is unlockable hash"
+        },
+        {
+          "trait_type": "urls", 
+          "value": "this is urls"
+        },
+        {
+          "trait_type": "author", 
+          "value": "Nobita"
+        },
+        {
+          "trait_type": "title", 
+          "value": "My cat"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "created_date", 
+          "value": 1629950673881
+        },
+        {
+          "trait_type": "standard", 
+          "value": "BEAMV1Standard"
+        },
+        {
+          "trait_type": "asset", 
+          "value": "16088498169526038966"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Girl 2",
+      "description": "Beautiful girl",
+      "image": "https://nft-marketplace-s3-test.s3.ap-southeast-1.amazonaws.com/f9fd69fd1d7fbe9788f7b64d09ee7dd4d12b13f883c4b74de1a065b8ec15f383.jpg",
+      "attributes": [
+        {
+          "trait_type": "hash", 
+          "value": "fe1e2e10db80f2ed1571cab8665821d723ecbf3dbfe1771b44b8eb36e59ea985"
+        },
+        {
+          "trait_type": "unlockableHash", 
+          "value": "91e3c1e593871e9b3b336a4452ec8aa6d296c3da9352bb483d89137924b1eeba"
+        },
+        {
+          "trait_type": "urls", 
+          "value": "https://nft-marketplace-s3-test.s3.ap-southeast-1.amazonaws.com/f9fd69fd1d7fbe9788f7b64d09ee7dd4d12b13f883c4b74de1a065b8ec15f383.jpg"
+        },
+        {
+          "trait_type": "author", 
+          "value": "Nobita"
+        },
+        {
+          "trait_type": "title", 
+          "value": "Girl 2"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "created_date", 
+          "value": 1630375407519
+        },
+        {
+          "trait_type": "standard", 
+          "value": "V2Standard"
+        },
+        {
+          "trait_type": "asset", 
+          "value": "1416619068695635771"
+        }
+      ]
     }
   ]
 }
